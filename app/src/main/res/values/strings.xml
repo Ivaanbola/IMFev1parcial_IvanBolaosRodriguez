@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMFev1parcial_IvanBolañosRodriguez</string>
+    <string name="calculadora">CALCULADORA</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="dame_dos_numeros">Dame dos numeros</string>
+    <string name="numero_1">Numero 1</string>
+    <string name="numero_2">Numero 2</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="su_suma_es">Su suma es:</string>
+    <string name="su_resta_es">Su resta es:</string>
+    <string name="su_mult_es">Su mult. es:</string>
+</resources>
